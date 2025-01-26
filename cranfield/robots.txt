@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /local/
+Disallow: /newsite/
+
+
+#dont allow old terrier versions
+Disallow: /terrier/doc_1.0.0/
+Disallow: /terrier/doc_1.0.1/
+Disallow: /terrier/doc_1.0.2/
+Disallow: /terrier/downloads/
+Disallow: /terrier/issues/
